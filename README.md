@@ -10,7 +10,7 @@ when i'm not debugging something that broke for no reason, i'm probably listenin
 
 ### languages & databases
 
-![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-learning-orange?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-learning-orange?style=for-the-badge&logo=openjdk&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=grey)
 
 ### version control
 
